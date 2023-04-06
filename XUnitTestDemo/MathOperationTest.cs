@@ -12,7 +12,7 @@ namespace XUnitTestDemo
             [Fact]
             public void Task_Add_TwoNumber()
             {
-                // Arrange  
+                // Arrange here
                 var num1 = 2.9;
                 var num2 = 3.1;
                 var expectedValue = 6;
